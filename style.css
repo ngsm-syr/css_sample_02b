@@ -19,7 +19,8 @@
    2. テキスト・フォントの設定
    ================================================= */
 .text-custom {
-    font-family: "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", Meiryo, sans-serif;
+    /* font-family: "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", Meiryo, sans-serif; */
+    font-family: "Zen Maru Gothic", sans-serif;
     font-size: 16px;           /* 文字サイズ */
     font-weight: bold;         /* 太字 */
     line-height: 1.8;          /* 行間：1.5〜2.0が推奨 */
